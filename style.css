@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  position: relative;
+  scroll-behavior: smooth;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    background-color: #22ddffcc;
+}
+nav{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 24px;
+   
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+#about, #blog, #contact{
+    padding-top: 120px;
+    margin-inline: 48px;
+}

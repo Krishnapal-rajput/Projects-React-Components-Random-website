@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAGA;;;;AAGA;;;;AAGA","sources":["style.css"],"sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\nbody {\r\n  margin: 0;\r\n}\r\n.h1_1 {\r\n  font-family: serif;\r\n}\r\n.h1_2 {\r\n  font-family: sans-serif;\r\n}\r\n"],"names":[],"version":3,"file":"index.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}
